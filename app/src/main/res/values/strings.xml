@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Demo_LO</string>
+    <string-array name="Layout">
+        <item>Linear</item>
+        <item>Table</item>
+        <item>Frame</item>
+        <item>Constraint</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
